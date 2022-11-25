@@ -1,0 +1,16 @@
+html {
+  margin: auto;
+}
+
+canvas#mycanvas {
+  border: 1px solid black;
+  margin: auto;
+
+}
+
+div#div{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
